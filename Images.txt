@@ -1,0 +1,1 @@
+logo.png - bara logo header ke liyelogo-small.png - chota logo footer ke liyemenu.jpg, booking.jpg, hours.jpg - 3 cards ke liyeAgar images nahi hain to temporarily https://via.placeholder.com/400x200 use kar lo.
